@@ -14,7 +14,7 @@ Information Systems Engineer with a strong interest in Artificial Intelligence, 
 
 ## ♡ Tech Stack
 
-[### 🧠 AI & NLP
+### 🧠 AI & NLP
 
 <p>
   <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=%23E8B4D8" />
