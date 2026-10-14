@@ -17,42 +17,41 @@ Information Systems Engineer with a strong interest in Artificial Intelligence, 
 ### 🧠 AI & NLP
 
 <p>
-  <img src="https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=%23E8B4D8" />
-  <img src="https://img.shields.io/badge/PyTorch-FFFFFF?style=for-the-badge&logo=pytorch&logoColor=%23E8B4D8" />
-  <img src="https://img.shields.io/badge/scikit--learn-FFFFFF?style=for-the-badge&logo=scikitlearn&logoColor=%23E8B4D8" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFFFFF?style=for-the-badge&logo=huggingface&logoColor=%23E8B4D8" />
-  <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=%23E8B4D8" />
-  <img src="https://img.shields.io/badge/LangGraph-FFFFFF?style=for-the-badge&logo=langchain&logoColor=%23E8B4D8" />
-  <img src="https://img.shields.io/badge/RAG_Architecture-FFFFFF?style=for-the-badge&logoColor=%23E8B4D8" />
-  <img src="https://img.shields.io/badge/LLMs_%26_Agents-FFFFFF?style=for-the-badge&logoColor=%23E8B4D8" />
-  <img src="https://img.shields.io/badge/Vector_DBs_(FAISS/Chroma)-FFFFFF?style=for-the-badge&logoColor=%23E8B4D8" />
+  <img src="https://img.shields.io/badge/Python-F8C8DC?style=flat-square&logo=python&logoColor=8E4162" />
+  <img src="https://img.shields.io/badge/PyTorch-F8C8DC?style=flat-square&logo=pytorch&logoColor=8E4162" />
+  <img src="https://img.shields.io/badge/scikit--learn-F8C8DC?style=flat-square&logo=scikitlearn&logoColor=8E4162" />
+  <img src="https://img.shields.io/badge/Hugging_Face-F8C8DC?style=flat-square&logo=huggingface&logoColor=8E4162" />
+  <img src="https://img.shields.io/badge/LangChain-F8C8DC?style=flat-square&logo=langchain&logoColor=8E4162" />
+  <img src="https://img.shields.io/badge/LangGraph-F8C8DC?style=flat-square&logo=langchain&logoColor=8E4162" />
+  <img src="https://img.shields.io/badge/RAG_Architecture-F8C8DC?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLMs_%26_Agents-F8C8DC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vector_DBs_(FAISS%2FChroma)-F8C8DC?style=flat-square" />
 </p>
 
 ### 📊 Data Engineering & BI
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=%23E8B4D8" />
-  <img src="https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=%23E8B4D8" />
-  <img src="https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=%23E8B4D8" />
-  <img src="https://img.shields.io/badge/ETL%2FELT-FFFFFF?style=for-the-badge&logoColor=%23E8B4D8" />
-  <img src="https://img.shields.io/badge/Power_BI-FFFFFF?style=for-the-badge&logo=powerbi&logoColor=%23E8B4D8" />
-  <img src="https://img.shields.io/badge/Tableau-FFFFFF?style=for-the-badge&logo=tableau&logoColor=%23E8B4D8" />
-  <img src="https://img.shields.io/badge/MS_SQL_Server-FFFFFF?style=for-the-badge&logo=microsoftsqlserver&logoColor=%23E8B4D8" />
-  <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=%23E8B4D8" />
+  <img src="https://img.shields.io/badge/SQL-F8C8DC?style=flat-square&logo=postgresql&logoColor=8E4162" />
+  <img src="https://img.shields.io/badge/Pandas-F8C8DC?style=flat-square&logo=pandas&logoColor=8E4162" />
+  <img src="https://img.shields.io/badge/NumPy-F8C8DC?style=flat-square&logo=numpy&logoColor=8E4162" />
+  <img src="https://img.shields.io/badge/ETL%2FELT-F8C8DC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power_BI-F8C8DC?style=flat-square&logo=powerbi&logoColor=8E4162" />
+  <img src="https://img.shields.io/badge/Tableau-F8C8DC?style=flat-square&logo=tableau&logoColor=8E4162" />
+  <img src="https://img.shields.io/badge/MS_SQL_Server-F8C8DC?style=flat-square&logo=microsoftsqlserver&logoColor=8E4162" />
+  <img src="https://img.shields.io/badge/PostgreSQL-F8C8DC?style=flat-square&logo=postgresql&logoColor=8E4162" />
 </p>
 
 ### 💻 Development & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=%23E8B4D8" />
-  <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=%23E8B4D8" />
-  <img src="https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=%23E8B4D8" />
-  <img src="https://img.shields.io/badge/Ionic-FFFFFF?style=for-the-badge&logo=ionic&logoColor=%23E8B4D8" />
-  <img src="https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=%23E8B4D8" />
-  <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=%23E8B4D8" />
-  <img src="https://img.shields.io/badge/n8n-FFFFFF?style=for-the-badge&logo=n8n&logoColor=%23E8B4D8" />
+  <img src="https://img.shields.io/badge/TypeScript-F8C8DC?style=flat-square&logo=typescript&logoColor=8E4162" />
+  <img src="https://img.shields.io/badge/JavaScript-F8C8DC?style=flat-square&logo=javascript&logoColor=8E4162" />
+  <img src="https://img.shields.io/badge/Angular-F8C8DC?style=flat-square&logo=angular&logoColor=8E4162" />
+  <img src="https://img.shields.io/badge/Ionic-F8C8DC?style=flat-square&logo=ionic&logoColor=8E4162" />
+  <img src="https://img.shields.io/badge/Git-F8C8DC?style=flat-square&logo=git&logoColor=8E4162" />
+  <img src="https://img.shields.io/badge/Docker-F8C8DC?style=flat-square&logo=docker&logoColor=8E4162" />
+  <img src="https://img.shields.io/badge/n8n-F8C8DC?style=flat-square&logo=n8n&logoColor=8E4162" />
 </p>
-](https://img.shields.io/badge/n8n-F8C8DC?style=flat-square&logo=n8n&logoColor=8E4162)
 ---
 
 ## 💗 What I'm Interested In
